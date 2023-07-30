@@ -1,4 +1,4 @@
-# Challenge 05 - Work Day Scheduler
+# Work Day Scheduler
 
 ## Description
 
@@ -20,3 +20,7 @@ Also, thank you god for the class recordings! Finally me,  credits to me too lol
 ## License
 
 MIT LICENSE
+
+## Link
+
+Deployed site: https://sabplpz.github.io/Workday-Scheduler/
